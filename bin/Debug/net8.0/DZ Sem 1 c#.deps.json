@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DZ Sem 1 c#/1.0.0": {
+        "runtime": {
+          "DZ Sem 1 c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DZ Sem 1 c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

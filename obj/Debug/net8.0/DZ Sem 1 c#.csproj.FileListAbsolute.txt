@@ -1,0 +1,15 @@
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.csproj.AssemblyReference.cache
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.AssemblyInfoInputs.cache
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.AssemblyInfo.cs
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.csproj.CoreCompileInputs.cache
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\bin\Debug\net8.0\DZ Sem 1 c#.exe
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\bin\Debug\net8.0\DZ Sem 1 c#.deps.json
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\bin\Debug\net8.0\DZ Sem 1 c#.runtimeconfig.json
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\bin\Debug\net8.0\DZ Sem 1 c#.dll
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\bin\Debug\net8.0\DZ Sem 1 c#.pdb
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.dll
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\refint\DZ Sem 1 c#.dll
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.pdb
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\DZ Sem 1 c#.genruntimeconfig.cache
+C:\Обучение Универ GeekBrains\DZ Sem 1 c#\obj\Debug\net8.0\ref\DZ Sem 1 c#.dll
